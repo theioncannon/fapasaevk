@@ -37,6 +37,7 @@
    "src": "misc/icon64.png"
   }
  ],
+ "description": "EVK LAB",
  "background_color": "#FFFFFF",
  "start_url": "index.htm",
  "theme_color": "#FFFFFF",

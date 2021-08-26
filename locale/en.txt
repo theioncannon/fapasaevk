@@ -3,6 +3,7 @@
 ## Tour
 
 ### Description
+tour.description = EVK LAB
 
 ### Title
 tour.name = FAPASA - CONSIV
