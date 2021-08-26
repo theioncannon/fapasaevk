@@ -1,0 +1,18 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = FAPASA - CONSIV
+
+## Media
+
+### Title
+media_8CF5BE1D_802D_F104_41DD_C0791D325EFC.label = CONSIV 1
+
+## Action
+
+### URL
+LinkBehaviour_6F4A7AA3_7FA9_99B0_41C4_5BEDCAD9BD58.source = https://www.fapasa.com.py/
