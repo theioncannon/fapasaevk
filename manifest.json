@@ -1,5 +1,8 @@
 {
  "name": "FAPASA - CONSIV",
+ "description": "EVK LAB",
+ "theme_color": "#FFFFFF",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
@@ -37,9 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "description": "EVK LAB",
  "background_color": "#FFFFFF",
- "start_url": "index.htm",
- "theme_color": "#FFFFFF",
  "display": "fullscreen"
 }
