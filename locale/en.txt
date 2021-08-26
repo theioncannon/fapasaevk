@@ -8,6 +8,12 @@ tour.description = EVK LAB
 ### Title
 tour.name = FAPASA - CONSIV
 
+## Skin
+
+### Button
+Button_8EEE7DC3_8014_7303_41DC_0C1821763D5B.label = PANTALLA COMPLETA
+Button_8EEE7DC3_8014_7303_41DC_0C1821763D5B.pressedLabel = SALIR DE PANTALLA
+
 ## Media
 
 ### Title
